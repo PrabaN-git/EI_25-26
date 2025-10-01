@@ -23,8 +23,7 @@ Implement six different use cases to demonstrate your understanding of software 
 | Structural  | **Proxy** | Controls access to premium quizzes for selected students |
 
 **Notes:**  
-- Each pattern has its own folder with a detailed `README.md`, UML diagrams, and logs.  
-- Students used in exercises: **Alice** and **Bob**  
+- Each pattern has its own folder with a detailed `README.md`, class diagrams.  
 - Logging implemented for all patterns to track actions and outputs.
 
 ---
